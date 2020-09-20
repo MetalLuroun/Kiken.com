@@ -1,0 +1,6 @@
+#  ignored files
+
+venv/
+*.pyc
+.idea
+__pycache__/
