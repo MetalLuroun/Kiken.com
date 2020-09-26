@@ -52,13 +52,13 @@
 #footer .QR {
   display: none;
   position: absolute;
-  left: calc(1.5vh - 75px);
-  top: -160px;
+  left: calc(1.5vh - 50px);
+  top: -110px;
   transition: all 0.2s ease-in-out;
 }
 #footer .QR > img {
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
 }
 #footer .QR::after {
   content: "";
@@ -67,7 +67,7 @@
   border: 10px solid transparent;
   border-top: 10px solid white;
   display: block;
-  margin-left: 65px;
+  margin-left: 40px;
 }
 #footer > .left > .wechat:hover .QR {
   display: block;

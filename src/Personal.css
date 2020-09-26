@@ -15,7 +15,7 @@ section div img {
     vertical-align: bottom;
 }
 section {
-    height:90vh;
+    height:85vh;
     display: flex;
     flex-wrap: wrap;
     scroll-behavior: auto;
